@@ -106,6 +106,10 @@
 {"tag": "age",
     "patterns": ["how old are you", "whats your age"],
     "responses": ["i am just a couple of days old"]
+},
+{"tag": "need_help",
+    "patterns": ["i feel like dying", "maybe suicide is the only option", "I feel depressed", "i dont see any purpose for me", "i just dont wanna exist" ],
+    "responses": ["call them National human service call center 211, Suicide Prevention Hotline 1-800-827-7571, National Sexual Assault Hotline 1-800-656-HOPE (4673), National Domestic Violence Hotline 1-800-799-SAFE"]
 }
 
 ]}
